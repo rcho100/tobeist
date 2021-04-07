@@ -22,6 +22,15 @@ function Sidebar() {
           <span> Upcoming</span>
         </li>
       </ul>
+      <ul className="sidebar__mid">
+        <h2>Projects</h2>
+        <li>
+          Project 1
+        </li>
+        <li>
+          Project 2
+        </li>
+      </ul>
     </div>
   );
 }
